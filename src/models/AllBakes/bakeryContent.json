@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Butter scotch",
+    "tagline": "Butterscotch Cake Half kg.",
+    "ratings": 3,
+    "amount": 450,
+    "description": "Every cake we offer is handcrafted and since each chef has his/her own way of baking and designing a cake, there might be slight variation in the product in terms of design and shape.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221130121853/butterscotch-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Truffle",
+    "ratings": 3,
+    "amount": 550,
+    "tagline": "Chocolate Truffle Delicious Cake Half Kg",
+    "description": "Every cake we offer is handcrafted and since each chef has his/her own way of baking and designing a cake, there might be slight variation in the product in terms of design and shape.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221214145641/chocolate-truffle-cream-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Floral Vanilla Cream",
+    "ratings": 4.5,
+    "amount": 460,
+    "tagline": "Floral Vanilla Cream Cake Half Kg.",
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221205145931/floral-vanilla-cream-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Heavenly Butterscotch",
+    "tagline": "Heavenly Butterscotch Cream Cake- Half Kg.",
+    "ratings": 2,
+    "amount": 150,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221118132237/heavenly-butterscotch-cream-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pineapple Cake",
+    "tagline": "Pineapple Cake Half kg.",
+    "ratings": 1,
+    "amount": 458,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221130121924/pineapple-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Carrot Walnut Cake",
+    "tagline": "Carrot Walnut Cake- Half Kg.",
+    "ratings": 3,
+    "amount": 498,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20190507074739/carrot-walnut-cake-half-kg_4.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chocolate Cream Cake",
+    "tagline": "Chocolate Cream Cake Half kg",
+    "ratings": 3,
+    "amount": 450,
+    "description": "The cake stand, cutlery & accessories used in the image are only for representation purposes. They are not delivered with the cake.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221118132140/chocolate-cream-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fruit Chocolate Cake",
+    "tagline": "Fruit Chocolate Cake Half kg.",
+    "ratings": 3,
+    "amount": 450,
+    "description": "Fake is the new black. Fake is where it is at. Fake Art, fake brands, fake breasts, and fake lager. We want to play our part in the ugly fallout from the Lager Dream. Say hello to Fake Lager – a zesty, floral 21st century faux masterpiece with added BrewDog bitterness.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221214145739/fruit-chocolate-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Butterscotch Cream Cake",
+    "tagline": "Butterscotch Cream Cake Half Kg",
+    "ratings": 2,
+    "amount": 300,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221118132122/butterscotch-cream-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rosy White Forest Cake",
+    "tagline": "Rosy White Forest Cake- Half Kg",
+    "ratings": 3,
+    "amount": 450,
+    "description": "Every cake we offer is handcrafted and since each chef has his/her own way of baking and designing a cake, there might be slight variation in the product in terms of design and shape.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221130121936/rosy-white-forest-cake-half-kg_2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "MDecorated Chocolate Truffle Cake",
+    "tagline": "Decorated Chocolate Truffle Cake Half Kg",
+    "ratings": 4,
+    "amount": 500,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221221115007/decorated-chocolate-truffle-cake-half-kg_2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Fruit Overload Cake",
+    "tagline": "Fruit Overload Cake- Half Kg",
+    "ratings": 3,
+    "amount": 400,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221118132233/fruit-overload-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Fudge Brownie Cake",
+    "tagline": "Fudge Brownie Cake Half kg",
+    "ratings": 2,
+    "amount": 450,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221205145945/fudge-brownie-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Chocolate Walnut Truffle Cake",
+    "tagline": "Chocolate Walnut Truffle Cake- Half kg",
+    "ratings": 4,
+    "amount": 500,
+    "description": "Occasionally, substitutions of flavours/designs is necessary due to temporary and/or regional unavailability issues.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221214145651/chocolate-walnut-truffle-half-kg_2.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Premium Truffle Designer Cake",
+    "tagline": "Premium Truffle Designer Cake- Half Kg",
+    "ratings": 3,
+    "amount": 500,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221214145830/premium-truffle-designer-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Chocolate Caramel Fudge Cake",
+    "tagline": "Chocolate Caramel Fudge Cake Half Kg",
+    "ratings": 4,
+    "amount": 600,
+    "description": "very cake we offer is handcrafted and since each chef has his/her own way of baking and designing a cake, there might be slight variation in the product in terms of design and shape.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221205145728/chocolate-caramel-fudge-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Red Velvet Fresh Cream Cake",
+    "tagline": "Red Velvet Fresh Cream Cake Half kg",
+    "ratings": 3,
+    "amount": 700,
+    "description": "Every cake we offer is handcrafted and since each chef has his/her own way of baking and designing a cake, there might be slight variation in the product in terms of design and shape.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221205144829/red-velvet-fresh-cream-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Delicious Pineapple Cake",
+    "tagline": "Delicious Pineapple Cake- Half Kg",
+    "ratings": 4,
+    "amount": 500,
+    "description": "he chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221130121855/butterscotch-cake-with-rasmalai-1kg_1.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Zig Zag Black Forest Cake",
+    "tagline": "Zig Zag Black Forest Cake- Half Kg",
+    "ratings": 3,
+    "amount": 500,
+    "description": "The cake stand, cutlery & accessories used in the image are only for representation purposes. They are not delivered with the cake.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20200828144427/zig-zag-black-forest-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Rose Paradise Chocolate Cake",
+    "tagline": "Rose Paradise Chocolate Cake Half Kg",
+    "ratings": 3,
+    "amount": 700,
+    "description": "Every cake we offer is handcrafted and since each chef has his/her own way of baking and designing a cake, there might be slight variation in the product in terms of design and shape..",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221130121933/rose-paradise-chocolate-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Truffle Walnut Cake",
+    "tagline": "Truffle Walnut Cake Half Kg",
+    "ratings": 4,
+    "amount": 800,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be de.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221214145909/truffle-walnut-cake-half-kg_3.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Chocolaty Truffle Cake",
+    "tagline": "Chocolaty Truffle Cake Half Kg",
+    "ratings": 4,
+    "amount": 500,
+    "description": "The chosen delivery time is an estimate and depends on the availability of the product and the destination to which you want the product to be de.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221214145702/chocolaty-truffle-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Crunchy Butterscotch Cake",
+    "tagline": "Crunchy Butterscotch Cake- Half Kg",
+    "ratings": 3,
+    "amount": 350,
+    "description": "Every cake we offer is handcrafted and since each chef has his/her own way of baking and designing a cake, there might be slight variation in the product in terms of design and shape.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221130121910/crunchy-butterscotch-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Death By Chocolate Cake",
+    "tagline": "Death By Chocolate Cake Half Kg",
+    "ratings": 5,
+    "amount": 1350,
+    "description": "Occasionally, substitutions of flavours/designs is necessary due to temporary or regional unavailability issues.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20201019103013/death-by-chocolate-cake-half-kg_1.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Butterscotch Cake With Rasmalai",
+    "tagline": "Butterscotch Cake With Rasmalai",
+    "ratings": 5,
+    "amount": 1550,
+    "description": "Occasionally, substitutions of flavours/designs is necessary due to temporary or regional unavailability issues.",
+    "image_url": "https://www.fnp.com/images/pr/l/v20221130121855/butterscotch-cake-with-rasmalai-1kg_1.jpg"
+  }
+]
